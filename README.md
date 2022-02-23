@@ -3,7 +3,7 @@
 I'm a software developer and a student at FER university. I'm interested in developing all sorts of things, especially for the web
 
 - 🐍 The languages I love the most are Python & Rust 🦀
-- 🧩 I’m always learning new technologies and languages. The one I'm currently learning is Kotlin
+- 🧩 I’m always learning new technologies and languages. The one I'm currently learning is Swift
 - 📫 You can reach me on LinkedIn @kjkardum
 
 -------
@@ -14,6 +14,7 @@ I'm a software developer and a student at FER university. I'm interested in deve
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
 <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" />
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
