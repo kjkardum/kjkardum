@@ -2,7 +2,7 @@
 
 I'm a software developer and a student at FER university. I'm interested in developing all sorts of things, especially for the web
 
-- 🐍 The languages I love the most are Python & Rust 🦀
+- 🐍 The languages I love the most are C#, Python & Rust 🦀
 - 🧩 I’m always learning new technologies and languages. The one I'm currently learning is Swift
 - 📫 You can reach me on LinkedIn @kjkardum
 
