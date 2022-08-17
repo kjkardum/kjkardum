@@ -4,6 +4,7 @@ I'm a software developer and a student at FER university. I'm interested in deve
 
 - 🐍 The languages I love the most are C#, Python & Rust 🦀
 - 🧩 I’m always learning new technologies and languages. The one I'm currently learning is Swift
+- 👨🏻‍💻 Professionally I'm mostly working with C# and .NET
 - 📫 You can reach me on LinkedIn @kjkardum
 
 -------
@@ -43,6 +44,11 @@ I'm a software developer and a student at FER university. I'm interested in deve
         <th>Project</th>
         <th>What I did</th>
         <th>Company</th>
+    </tr>
+    <tr>
+        <td>Various projects</td>
+        <td>Worked on internal and external projects that follow best practices for enterprise software such as SOLID principles, domain driven design, microservice architecture, cloud services (azure)</td>
+        <td>Codebooq</td>
     </tr>
     <tr>
         <td>AssembleIt</td>
