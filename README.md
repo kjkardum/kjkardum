@@ -31,7 +31,6 @@ I'm a software developer and a student at FER university. I'm interested in deve
 <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
 <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
@@ -39,8 +38,31 @@ I'm a software developer and a student at FER university. I'm interested in deve
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="18" /> **Azure cloud resources** i work with regularly
 
-🏆 **Top projects**
+- App services
+- Azure functions (.NET and TS ones)
+- EventHub, ServiceBus
+- Azure SQL DB, CosmosDB
+- Application Insights
+- Azure Keyvaults
+- Blob storage
+- API Management Gateway
+- Container Registries
+- Cognitive Search
+- Bicep Iaac (this I've only used for modification of predefined ones by DevOps teams)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" width="18" /> **.NET tools** i use regularly
+
+- ASP.NET Core
+- MediatR, FluentValidation
+- EF Core, Dapper on ocassions
+- MassTransit
+- XUnit, NSusbstitute, AutoFaker, FluentAssertions for tests
+- ... and many other less interesting ones
+ - Small but public example how I usually structure my projects can be [found here](https://github.com/kjkardum/FER-INFSUS/tree/master/IzvorniKod/TIME-API)
+
+🏆 **Top projects** (may be out of date from time to time 👀)
 
 
 <table>
@@ -73,7 +95,3 @@ I'm a software developer and a student at FER university. I'm interested in deve
     </tr>
 </table>
 
-<!---
-kjkardum/kjkardum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
