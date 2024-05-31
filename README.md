@@ -5,6 +5,8 @@ I'm a software developer and a student at FER university. I'm interested in deve
 - 🐍 The languages I love the most are C# and Python
 - 🧩 I’m always learning new technologies and languages.
 - 👨🏻‍💻 Professionally I'm mostly working with .NET and Azure
+  - As I am primarily using Azure DevOps for work, you will not find many active commmits on my GitHub profile 👁️👁️
+- 🎓 Completed my Comp. Ing. Bacc. at FER in 2023. On route to get finish Master's in 2025
 - 📫 You can reach me on LinkedIn @kjkardum
 
 -------
