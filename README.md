@@ -2,9 +2,9 @@
 
 I'm a software developer and a student at FER university. I'm interested in developing all sorts of things, especially for the web
 
-- 🐍 The languages I love the most are C#, Python & Rust 🦀
+- 🐍 The languages I love the most are C# and Python
 - 🧩 I’m always learning new technologies and languages.
-- 👨🏻‍💻 Professionally I'm mostly working with C# and .NET
+- 👨🏻‍💻 Professionally I'm mostly working with .NET and Azure
 - 📫 You can reach me on LinkedIn @kjkardum
 
 -------
